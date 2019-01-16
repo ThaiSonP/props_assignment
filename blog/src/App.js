@@ -19,7 +19,7 @@ class App extends Component {
 
         </div>
       <Feed allPosts={this.state.allPosts}/>
-      //we are calling on the component allPosts and passing this.state AS props.
+
 
       </>
       );

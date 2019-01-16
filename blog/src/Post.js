@@ -1,6 +1,6 @@
 import React from 'react';
 
-//we deconstruct props FROM the props of feed.js
+
 const Props = props =>{
 const { id, title, body}= props;
 
